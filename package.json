@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiagodread/cypress_test"
+  },
   "author": "Tiago Góes",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.3.0"
+  }
 }
