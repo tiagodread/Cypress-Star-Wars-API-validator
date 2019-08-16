@@ -1,5 +1,7 @@
 # Welcome to Cypress Star Wars API validator!
 
+[![CircleCI](https://circleci.com/gh/tiagodread/cypress_test/tree/master.svg?style=svg)](https://circleci.com/gh/tiagodread/cypress_test/tree/master)
+
 This project validates the status code and the structure of Star Wars API using cypress, the following end-points are:
 
 - https://swapi.co/api/people/1/
